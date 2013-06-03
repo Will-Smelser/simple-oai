@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2013-05-23T18:42:33Z</responseDate><request verb="ListRecords" resumptionToken="p15324coll18:5200:p15324coll18:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="p15324coll18">http://libmma.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5200</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 1]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5200]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5201</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 2]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5201]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5202</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 3]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5202]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5203</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 4]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5203]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5204</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 5]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5204]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5205</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 6]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5205]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5206</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 7]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5206]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5207</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 8]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5207]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5208</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 9]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5208]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5209</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 10]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5209]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5210</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 11]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5210]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5211</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 12]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5211]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5212</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 13]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5212]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5213</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 14]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5213]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5214</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 15]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5214]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5215</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 16]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5215]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5216</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 17]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5216]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5217</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 18]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5217]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5218</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Catalogue, auction sale of paintings : collection of Saml. P. Avery]]></dc:title>
+<dc:title><![CDATA[Catalogue of Samuel P. Avery's entire collection of American and foreign oil paintings]]></dc:title>
+<dc:creator><![CDATA[Somerville Art Gallery]]></dc:creator>
+<dc:description><![CDATA[Place of sale: New York; Date of sale: May 5, 1870; Watson Library copy: annotated with prices]]></dc:description>
+<dc:subject><![CDATA[Avery, Samuel Putnam, 1822-1904 -- Art collections -- Catalogs]]></dc:subject>
+<dc:publisher><![CDATA[Somerville Art Gallery]]></dc:publisher>
+<dc:date><![CDATA[1870]]></dc:date>
+<dc:date><![CDATA[18700505]]></dc:date>
+<dc:format><![CDATA[19 p.]]></dc:format>
+<dc:format><![CDATA[Auction catalogs]]></dc:format>
+<dc:relation><![CDATA[Auction catalogs]]></dc:relation>
+<dc:source><![CDATA[Thomas J. Watson Library]]></dc:source>
+<dc:relation><![CDATA[Lugt: 32011; Lancour: 356]]></dc:relation>
+<dc:language><![CDATA[English]]></dc:language>
+<dc:type><![CDATA[Text]]></dc:type>
+<dc:rights><![CDATA[public domain]]></dc:rights>
+<dc:rights><![CDATA[Material is in the public domain. No restrictions on use.]]></dc:rights>
+<dc:rights><![CDATA[The Libraries of the Metropolitan Museum of Art make digital versions of collections accessible for research purposes in the following situations: They are in the public domain; the rights are owned by The Metropolitan Museum of Art; we have permission to make them accessible; we make them accessible as a fair use, or there are no known restrictions on use. To learn what your responsibilities are if you'd like to use the materials, go to http://www.metmuseum.org/information/terms-and-conditions]]></dc:rights>
+<dc:identifier><![CDATA[b1468925x]]></dc:identifier>
+<dc:identifier><![CDATA[796995139]]></dc:identifier>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5218]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5219</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 1]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5219]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5220</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 2]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5220]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5221</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 3]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5221]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5222</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 4]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5222]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5223</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 5]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5223]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5224</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 6]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5224]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5225</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 7]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5225]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5226</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 8]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5226]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5227</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 9]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5227]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5228</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 10]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5228]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5229</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 11]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5229]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5230</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 12]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5230]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5231</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 13]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5231]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5232</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 14]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5232]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5233</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 15]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5233]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5234</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 16]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5234]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5235</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 17]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5235]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5236</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 18]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5236]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5237</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Catalogue of valuable paintings ... : comprising fine examples of the best American artists  Durand, Huntington, Kensett, Baker, James M. Hart, Church, Boughton, S.R. Gifford, E. Johnson, Casilear, William T. Richards, Whittredge, Gray, Hubbard, Weir, Shattuck, Darley, etc., with several important illustrations of foreign art  one of the finest ever painted by Carl Hubner, and others by Lambert, Beranger, Plassan, Baron Worms, Navier, Bosch, Lemmens, Soyer, Harveng, Beaumont, Von Seben, St. Pierre, Artz, De Buel, Weisz, Pecrus, Meyer Von Bremen]]></dc:title>
+<dc:creator><![CDATA[Somerville Art Gallery]]></dc:creator>
+<dc:description><![CDATA[Place of sale: New York; Date of sale: Mar. 31, 1870; Watson Library copy: annotated with names and prices]]></dc:description>
+<dc:subject><![CDATA[Mr. Charles Harvey]]></dc:subject>
+<dc:publisher><![CDATA[Somerville Art Gallery]]></dc:publisher>
+<dc:date><![CDATA[1870]]></dc:date>
+<dc:date><![CDATA[18700331]]></dc:date>
+<dc:format><![CDATA[16 p.]]></dc:format>
+<dc:format><![CDATA[Auction catalogs]]></dc:format>
+<dc:relation><![CDATA[Auction catalogs]]></dc:relation>
+<dc:source><![CDATA[Thomas J. Watson Library]]></dc:source>
+<dc:relation><![CDATA[Lancour: 352; Lugt: 31893]]></dc:relation>
+<dc:language><![CDATA[English]]></dc:language>
+<dc:type><![CDATA[Text]]></dc:type>
+<dc:rights><![CDATA[public domain]]></dc:rights>
+<dc:rights><![CDATA[Material is in the public domain. No restrictions on use.]]></dc:rights>
+<dc:rights><![CDATA[The Libraries of the Metropolitan Museum of Art make digital versions of collections accessible for research purposes in the following situations: They are in the public domain; the rights are owned by The Metropolitan Museum of Art; we have permission to make them accessible; we make them accessible as a fair use, or there are no known restrictions on use. To learn what your responsibilities are if you'd like to use the materials, go to http://www.metmuseum.org/information/terms-and-conditions]]></dc:rights>
+<dc:identifier><![CDATA[b14750843]]></dc:identifier>
+<dc:identifier><![CDATA[796995140]]></dc:identifier>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5237]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5238</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 1]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5238]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5239</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 2]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5239]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5240</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 3]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5240]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5241</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 4]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5241]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5242</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 5]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5242]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5243</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 6]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5243]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5244</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 7]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5244]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5245</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 8]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5245]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5246</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 9]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5246]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5247</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 10]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5247]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5248</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 11]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5248]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5249</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 12]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5249]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5250</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 13]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5250]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5251</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 14]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5251]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5252</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 15]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5252]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5253</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 16]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5253]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5254</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 17]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5254]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5255</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 18]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5255]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5256</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 19]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5256]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5257</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Catalogue of Samuel P. Avery's collection of exclusively water color drawings by distinguished artists of the French and continental schools ... also, the remainder of the objects of art bought out of the great "Paris Exposition" of 1867 …]]></dc:title>
+<dc:creator><![CDATA[Somerville Art Gallery]]></dc:creator>
+<dc:description><![CDATA[Place of sale: New York; Dates of sale: Apr. 21-22, 1868; Watson Library copy: annotated with names and prices]]></dc:description>
+<dc:subject><![CDATA[Avery, Samuel Putnam, 1822-1904 -- Art collections -- Catalogs]]></dc:subject>
+<dc:publisher><![CDATA[Somerville Art Gallery]]></dc:publisher>
+<dc:date><![CDATA[1868]]></dc:date>
+<dc:date><![CDATA[18680421; 18680422]]></dc:date>
+<dc:format><![CDATA[18 p.]]></dc:format>
+<dc:format><![CDATA[Auction catalogs]]></dc:format>
+<dc:relation><![CDATA[Auction catalogs]]></dc:relation>
+<dc:source><![CDATA[Thomas J. Watson Library]]></dc:source>
+<dc:language><![CDATA[English]]></dc:language>
+<dc:type><![CDATA[Text]]></dc:type>
+<dc:rights><![CDATA[public domain]]></dc:rights>
+<dc:rights><![CDATA[Material is in the public domain. No restrictions on use.]]></dc:rights>
+<dc:rights><![CDATA[The Libraries of the Metropolitan Museum of Art make digital versions of collections accessible for research purposes in the following situations: They are in the public domain; the rights are owned by The Metropolitan Museum of Art; we have permission to make them accessible; we make them accessible as a fair use, or there are no known restrictions on use. To learn what your responsibilities are if you'd like to use the materials, go to http://www.metmuseum.org/information/terms-and-conditions]]></dc:rights>
+<dc:identifier><![CDATA[b15027788]]></dc:identifier>
+<dc:identifier><![CDATA[796995145]]></dc:identifier>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5257]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5258</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 1]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5258]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5259</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 2]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5259]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5260</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 3]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5260]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5261</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 4]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5261]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5262</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 5]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5262]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5263</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 6]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5263]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5264</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 7]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5264]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5265</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 8]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5265]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5266</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 9]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5266]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5267</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 10]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5267]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5268</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 11]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5268]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5269</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 12]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5269]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5270</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 13]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5270]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5271</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 14]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5271]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5272</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 15]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5272]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5273</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 16]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5273]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5274</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 17]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5274]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5275</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 18]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5275]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5276</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 19]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5276]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5277</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 20]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5277]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5278</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 21]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5278]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5279</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 22]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5279]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5280</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 23]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5280]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5281</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 24]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5281]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5282</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 25]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5282]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5283</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 26]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5283]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5284</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 27]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5284]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5285</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[S.P. Avery's entire collection of American and foreign paintings in oil, water color drawings, objects or art, antiques, &c]]></dc:title>
+<dc:creator><![CDATA[Somerville Art Gallery]]></dc:creator>
+<dc:description><![CDATA[Place of sale: New York; Date of sale: Mar. 20-21, 1871; Watson Library copy: partially annotated with names and prices]]></dc:description>
+<dc:subject><![CDATA[Avery, Samuel Putnam, 1822-1904 -- Art collections -- Catalogs]]></dc:subject>
+<dc:publisher><![CDATA[Somerville Art Gallery]]></dc:publisher>
+<dc:date><![CDATA[1871]]></dc:date>
+<dc:date><![CDATA[18710320; 18710321]]></dc:date>
+<dc:format><![CDATA[25 p.]]></dc:format>
+<dc:format><![CDATA[Auction catalogs]]></dc:format>
+<dc:relation><![CDATA[Auction catalogs]]></dc:relation>
+<dc:source><![CDATA[Thomas J. Watson Library]]></dc:source>
+<dc:relation><![CDATA[Lancour: 373A; Lugt: 32376]]></dc:relation>
+<dc:language><![CDATA[English]]></dc:language>
+<dc:type><![CDATA[Text]]></dc:type>
+<dc:rights><![CDATA[public domain]]></dc:rights>
+<dc:rights><![CDATA[Material is in the public domain. No restrictions on use.]]></dc:rights>
+<dc:rights><![CDATA[The Libraries of the Metropolitan Museum of Art make digital versions of collections accessible for research purposes in the following situations: They are in the public domain; the rights are owned by The Metropolitan Museum of Art; we have permission to make them accessible; we make them accessible as a fair use, or there are no known restrictions on use. To learn what your responsibilities are if you'd like to use the materials, go to http://www.metmuseum.org/information/terms-and-conditions]]></dc:rights>
+<dc:identifier><![CDATA[b14689200]]></dc:identifier>
+<dc:identifier><![CDATA[796995135]]></dc:identifier>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5285]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5286</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 1]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5286]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5287</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 2]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5287]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5288</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 3]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5288]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5289</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 4]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5289]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5290</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 5]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5290]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5291</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 6]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5291]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5292</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 7]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5292]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5293</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 8]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5293]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5294</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 9]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5294]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5295</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 10]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5295]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5296</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 11]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5296]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5297</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 12]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5297]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5298</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 13]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5298]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5299</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 14]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5299]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5300</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 15]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5300]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5301</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 16]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5301]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5302</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 17]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5302]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5303</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 18]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5303]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5304</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 19]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5304]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5305</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 20]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5305]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5306</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 21]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5306]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5307</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 22]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5307]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5308</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 23]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5308]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5309</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 24]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5309]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5310</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 25]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5310]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5311</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 26]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5311]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5312</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 27]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5312]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5313</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 28]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5313]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5314</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Catalogue of Samuel P. Avery's entire collection of works of art, by celebrated American and foreign artists, in oil and water colors, painted expressly for or imported by him, also, the lovely figure in marble, "Listening to the Birds,"  by Silverio Martinoli of Milan]]></dc:title>
+<dc:creator><![CDATA[Somerville, Robert]]></dc:creator>
+<dc:description><![CDATA[Place of sale: New York; Dates of sale: Apr. 27-28, 1869; Watson Library copy: annotated with names and prices]]></dc:description>
+<dc:subject><![CDATA[Avery, Samuel Putnam, 1822-1904 -- Art collections -- Catalogs; Martinoli, Silverio, 1877-1890 -- Catalogs]]></dc:subject>
+<dc:publisher><![CDATA[Somerville Robert]]></dc:publisher>
+<dc:date><![CDATA[1869]]></dc:date>
+<dc:date><![CDATA[18690427; 18690428]]></dc:date>
+<dc:format><![CDATA[26 p.]]></dc:format>
+<dc:format><![CDATA[Auction catalogs]]></dc:format>
+<dc:relation><![CDATA[Auction catalogs]]></dc:relation>
+<dc:source><![CDATA[Thomas J. Watson Library]]></dc:source>
+<dc:language><![CDATA[English]]></dc:language>
+<dc:type><![CDATA[Text]]></dc:type>
+<dc:rights><![CDATA[public domain]]></dc:rights>
+<dc:rights><![CDATA[Material is in the public domain. No restrictions on use.]]></dc:rights>
+<dc:rights><![CDATA[The Libraries of the Metropolitan Museum of Art make digital versions of collections accessible for research purposes in the following situations: They are in the public domain; the rights are owned by The Metropolitan Museum of Art; we have permission to make them accessible; we make them accessible as a fair use, or there are no known restrictions on use. To learn what your responsibilities are if you'd like to use the materials, go to http://www.metmuseum.org/information/terms-and-conditions]]></dc:rights>
+<dc:identifier><![CDATA[b1502779x]]></dc:identifier>
+<dc:identifier><![CDATA[796995143]]></dc:identifier>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5314]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5315</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 1]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5315]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5316</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 2]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5316]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5317</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 3]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5317]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5318</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 4]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5318]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5319</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 5]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5319]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5320</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 6]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5320]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5321</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 7]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5321]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5322</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 8]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5322]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5323</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 9]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5323]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5324</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 10]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5324]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5325</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 11]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5325]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5326</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 12]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5326]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5327</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 13]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5327]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5328</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 14]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5328]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5329</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 15]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5329]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5330</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 16]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5330]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5331</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 17]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5331]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5332</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 18]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5332]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5333</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 19]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5333]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5334</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 20]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5334]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5335</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 21]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5335]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5336</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 22]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5336]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5337</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 23]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5337]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5338</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 24]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5338]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5339</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 25]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5339]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5340</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 26]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5340]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5341</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 27]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5341]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5342</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 28]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5342]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5343</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Catalogue of French paintings and other works of art selected by S. P. Avery]]></dc:title>
+<dc:contributor><![CDATA[Miner, Henry D.]]></dc:contributor>
+<dc:description><![CDATA[Place of sale: New York; Dates of sale: Apr. 9-10, 1868; Henry D.  Miner, auctioneer; Watson Library copy: annotated with prices]]></dc:description>
+<dc:subject><![CDATA[Avery, Samuel Putnam, 1822-1904 -- Art collections -- Catalogs]]></dc:subject>
+<dc:publisher><![CDATA[Samuel Putnam Avery]]></dc:publisher>
+<dc:date><![CDATA[1868]]></dc:date>
+<dc:date><![CDATA[18680409; 18680410]]></dc:date>
+<dc:format><![CDATA[26 p.]]></dc:format>
+<dc:format><![CDATA[Auction catalogs]]></dc:format>
+<dc:relation><![CDATA[Auction catalogs]]></dc:relation>
+<dc:source><![CDATA[Thomas J. Watson Library]]></dc:source>
+<dc:language><![CDATA[English]]></dc:language>
+<dc:type><![CDATA[Text]]></dc:type>
+<dc:rights><![CDATA[public domain]]></dc:rights>
+<dc:rights><![CDATA[Material is in the public domain. No restrictions on use.]]></dc:rights>
+<dc:rights><![CDATA[The Libraries of the Metropolitan Museum of Art make digital versions of collections accessible for research purposes in the following situations: They are in the public domain; the rights are owned by The Metropolitan Museum of Art; we have permission to make them accessible; we make them accessible as a fair use, or there are no known restrictions on use. To learn what your responsibilities are if you'd like to use the materials, go to http://www.metmuseum.org/information/terms-and-conditions]]></dc:rights>
+<dc:identifier><![CDATA[b15027879]]></dc:identifier>
+<dc:identifier><![CDATA[796995147]]></dc:identifier>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5343]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5344</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 1]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5344]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5345</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 2]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5345]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5346</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 3]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5346]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5347</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 4]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5347]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5348</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 5]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5348]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5349</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 6]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5349]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5350</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 7]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5350]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5351</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 8]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5351]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5352</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 9]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5352]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5353</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 10]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5353]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5354</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 11]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5354]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5355</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 12]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5355]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5356</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 13]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5356]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5357</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 14]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5357]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5358</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 15]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5358]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5359</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 16]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5359]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5360</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 17]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5360]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5361</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 18]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5361]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5362</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 19]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5362]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5363</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 20]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5363]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5364</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 21]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5364]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5365</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 22]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5365]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5366</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 23]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5366]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5367</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 24]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5367]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5368</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 25]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5368]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5369</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 26]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5369]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5370</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 27]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5370]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5371</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 28]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5371]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5372</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 29]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5372]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5373</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 30]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5373]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5374</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 31]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5374]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5375</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 32]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5375]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5376</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 33]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5376]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5377</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 34]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5377]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5378</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 35]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5378]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5379</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 36]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5379]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5380</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 37]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5380]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5381</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 38]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5381]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5382</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 39]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5382]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5383</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Catalogue of the entire art library of Mr. Samuel P. Avery : comprising an extensive collection of superbly illustrated books ... fine engravings, photographs, chromos & lithographs ... mahogany book cases, walnut library table, easels ...]]></dc:title>
+<dc:creator><![CDATA[Bangs, Merwin & Co]]></dc:creator>
+<dc:description><![CDATA[Place of sale: New York; Date of sale: Jan. 30, 1867; Watson Library copy: annotated with prices]]></dc:description>
+<dc:subject><![CDATA[Avery, Samuel Putnam, 1822-1904 -- Art collections -- Catalogs; Avery, Samuel Putnam, 1822-1904 -- Library -- Catalogs]]></dc:subject>
+<dc:publisher><![CDATA[Bangs Merwin & Co.]]></dc:publisher>
+<dc:date><![CDATA[1867]]></dc:date>
+<dc:date><![CDATA[18670130]]></dc:date>
+<dc:format><![CDATA[37 p.]]></dc:format>
+<dc:format><![CDATA[Auction catalogs]]></dc:format>
+<dc:relation><![CDATA[Auction catalogs]]></dc:relation>
+<dc:source><![CDATA[Thomas J. Watson Library]]></dc:source>
+<dc:language><![CDATA[English]]></dc:language>
+<dc:type><![CDATA[Text]]></dc:type>
+<dc:rights><![CDATA[public domain]]></dc:rights>
+<dc:rights><![CDATA[Material is in the public domain. No restrictions on use.]]></dc:rights>
+<dc:rights><![CDATA[The Libraries of the Metropolitan Museum of Art make digital versions of collections accessible for research purposes in the following situations: They are in the public domain; the rights are owned by The Metropolitan Museum of Art; we have permission to make them accessible; we make them accessible as a fair use, or there are no known restrictions on use. To learn what your responsibilities are if you'd like to use the materials, go to http://www.metmuseum.org/information/terms-and-conditions]]></dc:rights>
+<dc:identifier><![CDATA[b15027855]]></dc:identifier>
+<dc:identifier><![CDATA[796995142]]></dc:identifier>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5383]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5384</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 1]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5384]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5385</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 2]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5385]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5386</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 3]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5386]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5387</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 4]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5387]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5388</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 5]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5388]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5389</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 6]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5389]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5390</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 7]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5390]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5391</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 8]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5391]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5392</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 9]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5392]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5393</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 10]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5393]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5394</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 11]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5394]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5395</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 12]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5395]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5396</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 13]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5396]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5397</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 14]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5397]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5398</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 15]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5398]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:libmma.contentdm.oclc.org:p15324coll18/5399</identifier><datestamp>2012-06-27</datestamp><setSpec>p15324coll18</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title><![CDATA[Page 16]]></dc:title>
+<dc:identifier><![CDATA[http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll18/id/5399]]></dc:identifier></oai_dc:dc>
+</metadata>
+</record><resumptionToken>p15324coll18:5400:p15324coll18:0000-00-00:9999-99-99:oai_dc</resumptionToken></ListRecords></OAI-PMH>

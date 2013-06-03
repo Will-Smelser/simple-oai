@@ -1,0 +1,691 @@
+2013-05-24T17:21:06+02:00	GET-verb => Identify
+2013-05-24T17:21:06+02:00	POST-
+
+2013-05-24T17:21:08+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:21:08+02:00	POST-
+
+2013-05-24T17:21:08+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:21:08+02:00	POST-
+
+2013-05-24T17:21:09+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:21:09+02:00	POST-
+
+2013-05-24T17:21:09+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:21:09+02:00	POST-
+
+2013-05-24T17:22:43+02:00	GET-verb => Identify
+2013-05-24T17:22:43+02:00	POST-
+
+2013-05-24T17:22:45+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:22:45+02:00	POST-
+
+2013-05-24T17:22:45+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:22:45+02:00	POST-
+
+2013-05-24T17:22:45+02:00	set = 
+2013-05-24T17:22:45+02:00	token parts = 0 => contentdm3, 1 => 1
+2013-05-24T17:22:46+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:22:46+02:00	POST-
+
+2013-05-24T17:22:47+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:22:47+02:00	POST-
+
+2013-05-24T17:22:47+02:00	set = 
+2013-05-24T17:22:47+02:00	token parts = 0 => contentdm3, 1 => 1
+2013-05-24T17:29:26+02:00	GET-verb => Identify
+2013-05-24T17:29:27+02:00	POST-
+
+2013-05-24T17:29:29+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:29:29+02:00	POST-
+
+2013-05-24T17:29:29+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:29:29+02:00	POST-
+
+2013-05-24T17:29:29+02:00	set = contentdm3
+2013-05-24T17:29:29+02:00	token parts = 0 => contentdm3, 1 => 1
+2013-05-24T17:29:30+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:29:30+02:00	POST-
+
+2013-05-24T17:29:30+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:29:30+02:00	POST-
+
+2013-05-24T17:29:30+02:00	set = contentdm3
+2013-05-24T17:29:30+02:00	token parts = 0 => contentdm3, 1 => 1
+2013-05-24T17:30:58+02:00	GET-verb => Identify
+2013-05-24T17:30:58+02:00	POST-
+
+2013-05-24T17:31:00+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:31:00+02:00	POST-
+
+2013-05-24T17:31:00+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:31:00+02:00	POST-
+
+2013-05-24T17:31:00+02:00	set = contentdm3
+2013-05-24T17:31:00+02:00	token parts = 0 => contentdm3, 1 => 1
+2013-05-24T17:31:00+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:2
+2013-05-24T17:31:00+02:00	POST-
+
+2013-05-24T17:31:00+02:00	set = contentdm3
+2013-05-24T17:31:00+02:00	token parts = 0 => contentdm3, 1 => 2
+2013-05-24T17:31:01+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:31:01+02:00	POST-
+
+2013-05-24T17:31:01+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:31:01+02:00	POST-
+
+2013-05-24T17:31:01+02:00	set = contentdm3
+2013-05-24T17:31:01+02:00	token parts = 0 => contentdm3, 1 => 1
+2013-05-24T17:31:02+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:2
+2013-05-24T17:31:02+02:00	POST-
+
+2013-05-24T17:31:02+02:00	set = contentdm3
+2013-05-24T17:31:02+02:00	token parts = 0 => contentdm3, 1 => 2
+2013-05-24T17:38:09+02:00	GET-verb => Identify
+2013-05-24T17:38:09+02:00	POST-
+
+2013-05-24T17:38:11+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:38:11+02:00	POST-
+
+2013-05-24T17:38:11+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:38:11+02:00	POST-
+
+2013-05-24T17:38:11+02:00	set = contentdm3
+2013-05-24T17:38:11+02:00	token parts = 0 => contentdm3, 1 => 1
+2013-05-24T17:38:11+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:2
+2013-05-24T17:38:11+02:00	POST-
+
+2013-05-24T17:38:11+02:00	set = contentdm3
+2013-05-24T17:38:11+02:00	token parts = 0 => contentdm3, 1 => 2
+2013-05-24T17:38:11+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:3
+2013-05-24T17:38:11+02:00	POST-
+
+2013-05-24T17:38:11+02:00	set = contentdm3
+2013-05-24T17:38:11+02:00	token parts = 0 => contentdm3, 1 => 3
+2013-05-24T17:38:11+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:4
+2013-05-24T17:38:11+02:00	POST-
+
+2013-05-24T17:38:11+02:00	set = contentdm3
+2013-05-24T17:38:11+02:00	token parts = 0 => contentdm3, 1 => 4
+2013-05-24T17:38:11+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:5
+2013-05-24T17:38:11+02:00	POST-
+
+2013-05-24T17:38:11+02:00	set = contentdm3
+2013-05-24T17:38:11+02:00	token parts = 0 => contentdm3, 1 => 5
+2013-05-24T17:38:11+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:6
+2013-05-24T17:38:11+02:00	POST-
+
+2013-05-24T17:38:11+02:00	set = contentdm3
+2013-05-24T17:38:11+02:00	token parts = 0 => contentdm3, 1 => 6
+2013-05-24T17:38:11+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:7
+2013-05-24T17:38:11+02:00	POST-
+
+2013-05-24T17:38:11+02:00	set = contentdm3
+2013-05-24T17:38:11+02:00	token parts = 0 => contentdm3, 1 => 7
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:8
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 8
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:9
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 9
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:10
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 10
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:11
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 11
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:12
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 12
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:13
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 13
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:14
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 14
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:15
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 15
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:16
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 16
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:17
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 17
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:18
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 18
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:19
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 19
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:20
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 20
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:21
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 21
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:22
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 22
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:23
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 23
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:24
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 24
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:25
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 25
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:26
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 26
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:27
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 27
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:28
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 28
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:29
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 29
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:30
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 30
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:31
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 31
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:32
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 32
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:33
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 33
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:34
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 34
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:35
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:12+02:00	set = contentdm3
+2013-05-24T17:38:12+02:00	token parts = 0 => contentdm3, 1 => 35
+2013-05-24T17:38:12+02:00	GET-verb => ListRecords, set => contentdm3, metadataPrefix => oai_dc
+2013-05-24T17:38:12+02:00	POST-
+
+2013-05-24T17:38:13+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:1
+2013-05-24T17:38:13+02:00	POST-
+
+2013-05-24T17:38:13+02:00	set = contentdm3
+2013-05-24T17:38:13+02:00	token parts = 0 => contentdm3, 1 => 1
+2013-05-24T17:38:13+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:2
+2013-05-24T17:38:13+02:00	POST-
+
+2013-05-24T17:38:13+02:00	set = contentdm3
+2013-05-24T17:38:13+02:00	token parts = 0 => contentdm3, 1 => 2
+2013-05-24T17:38:14+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:3
+2013-05-24T17:38:14+02:00	POST-
+
+2013-05-24T17:38:14+02:00	set = contentdm3
+2013-05-24T17:38:14+02:00	token parts = 0 => contentdm3, 1 => 3
+2013-05-24T17:38:14+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:4
+2013-05-24T17:38:14+02:00	POST-
+
+2013-05-24T17:38:14+02:00	set = contentdm3
+2013-05-24T17:38:14+02:00	token parts = 0 => contentdm3, 1 => 4
+2013-05-24T17:38:15+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:5
+2013-05-24T17:38:15+02:00	POST-
+
+2013-05-24T17:38:15+02:00	set = contentdm3
+2013-05-24T17:38:15+02:00	token parts = 0 => contentdm3, 1 => 5
+2013-05-24T17:38:15+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:6
+2013-05-24T17:38:15+02:00	POST-
+
+2013-05-24T17:38:15+02:00	set = contentdm3
+2013-05-24T17:38:15+02:00	token parts = 0 => contentdm3, 1 => 6
+2013-05-24T17:38:16+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:7
+2013-05-24T17:38:16+02:00	POST-
+
+2013-05-24T17:38:16+02:00	set = contentdm3
+2013-05-24T17:38:16+02:00	token parts = 0 => contentdm3, 1 => 7
+2013-05-24T17:38:17+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:8
+2013-05-24T17:38:17+02:00	POST-
+
+2013-05-24T17:38:17+02:00	set = contentdm3
+2013-05-24T17:38:17+02:00	token parts = 0 => contentdm3, 1 => 8
+2013-05-24T17:38:17+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:9
+2013-05-24T17:38:17+02:00	POST-
+
+2013-05-24T17:38:17+02:00	set = contentdm3
+2013-05-24T17:38:17+02:00	token parts = 0 => contentdm3, 1 => 9
+2013-05-24T17:38:18+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:10
+2013-05-24T17:38:18+02:00	POST-
+
+2013-05-24T17:38:18+02:00	set = contentdm3
+2013-05-24T17:38:18+02:00	token parts = 0 => contentdm3, 1 => 10
+2013-05-24T17:38:18+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:11
+2013-05-24T17:38:18+02:00	POST-
+
+2013-05-24T17:38:18+02:00	set = contentdm3
+2013-05-24T17:38:18+02:00	token parts = 0 => contentdm3, 1 => 11
+2013-05-24T17:38:19+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:12
+2013-05-24T17:38:19+02:00	POST-
+
+2013-05-24T17:38:19+02:00	set = contentdm3
+2013-05-24T17:38:19+02:00	token parts = 0 => contentdm3, 1 => 12
+2013-05-24T17:38:20+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:13
+2013-05-24T17:38:20+02:00	POST-
+
+2013-05-24T17:38:20+02:00	set = contentdm3
+2013-05-24T17:38:20+02:00	token parts = 0 => contentdm3, 1 => 13
+2013-05-24T17:38:21+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:14
+2013-05-24T17:38:21+02:00	POST-
+
+2013-05-24T17:38:21+02:00	set = contentdm3
+2013-05-24T17:38:21+02:00	token parts = 0 => contentdm3, 1 => 14
+2013-05-24T17:38:23+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:15
+2013-05-24T17:38:23+02:00	POST-
+
+2013-05-24T17:38:23+02:00	set = contentdm3
+2013-05-24T17:38:23+02:00	token parts = 0 => contentdm3, 1 => 15
+2013-05-24T17:38:24+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:16
+2013-05-24T17:38:24+02:00	POST-
+
+2013-05-24T17:38:24+02:00	set = contentdm3
+2013-05-24T17:38:24+02:00	token parts = 0 => contentdm3, 1 => 16
+2013-05-24T17:38:25+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:17
+2013-05-24T17:38:25+02:00	POST-
+
+2013-05-24T17:38:25+02:00	set = contentdm3
+2013-05-24T17:38:25+02:00	token parts = 0 => contentdm3, 1 => 17
+2013-05-24T17:38:26+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:18
+2013-05-24T17:38:26+02:00	POST-
+
+2013-05-24T17:38:26+02:00	set = contentdm3
+2013-05-24T17:38:26+02:00	token parts = 0 => contentdm3, 1 => 18
+2013-05-24T17:38:27+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:19
+2013-05-24T17:38:27+02:00	POST-
+
+2013-05-24T17:38:27+02:00	set = contentdm3
+2013-05-24T17:38:27+02:00	token parts = 0 => contentdm3, 1 => 19
+2013-05-24T17:38:28+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:20
+2013-05-24T17:38:28+02:00	POST-
+
+2013-05-24T17:38:28+02:00	set = contentdm3
+2013-05-24T17:38:28+02:00	token parts = 0 => contentdm3, 1 => 20
+2013-05-24T17:38:29+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:21
+2013-05-24T17:38:29+02:00	POST-
+
+2013-05-24T17:38:29+02:00	set = contentdm3
+2013-05-24T17:38:29+02:00	token parts = 0 => contentdm3, 1 => 21
+2013-05-24T17:38:29+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:22
+2013-05-24T17:38:29+02:00	POST-
+
+2013-05-24T17:38:29+02:00	set = contentdm3
+2013-05-24T17:38:29+02:00	token parts = 0 => contentdm3, 1 => 22
+2013-05-24T17:38:30+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:23
+2013-05-24T17:38:30+02:00	POST-
+
+2013-05-24T17:38:30+02:00	set = contentdm3
+2013-05-24T17:38:30+02:00	token parts = 0 => contentdm3, 1 => 23
+2013-05-24T17:38:32+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:24
+2013-05-24T17:38:32+02:00	POST-
+
+2013-05-24T17:38:32+02:00	set = contentdm3
+2013-05-24T17:38:32+02:00	token parts = 0 => contentdm3, 1 => 24
+2013-05-24T17:38:33+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:25
+2013-05-24T17:38:33+02:00	POST-
+
+2013-05-24T17:38:33+02:00	set = contentdm3
+2013-05-24T17:38:33+02:00	token parts = 0 => contentdm3, 1 => 25
+2013-05-24T17:38:33+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:26
+2013-05-24T17:38:33+02:00	POST-
+
+2013-05-24T17:38:33+02:00	set = contentdm3
+2013-05-24T17:38:33+02:00	token parts = 0 => contentdm3, 1 => 26
+2013-05-24T17:38:34+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:27
+2013-05-24T17:38:34+02:00	POST-
+
+2013-05-24T17:38:34+02:00	set = contentdm3
+2013-05-24T17:38:34+02:00	token parts = 0 => contentdm3, 1 => 27
+2013-05-24T17:38:34+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:28
+2013-05-24T17:38:34+02:00	POST-
+
+2013-05-24T17:38:34+02:00	set = contentdm3
+2013-05-24T17:38:34+02:00	token parts = 0 => contentdm3, 1 => 28
+2013-05-24T17:38:36+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:29
+2013-05-24T17:38:36+02:00	POST-
+
+2013-05-24T17:38:36+02:00	set = contentdm3
+2013-05-24T17:38:36+02:00	token parts = 0 => contentdm3, 1 => 29
+2013-05-24T17:38:37+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:30
+2013-05-24T17:38:37+02:00	POST-
+
+2013-05-24T17:38:37+02:00	set = contentdm3
+2013-05-24T17:38:37+02:00	token parts = 0 => contentdm3, 1 => 30
+2013-05-24T17:38:38+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:31
+2013-05-24T17:38:38+02:00	POST-
+
+2013-05-24T17:38:38+02:00	set = contentdm3
+2013-05-24T17:38:38+02:00	token parts = 0 => contentdm3, 1 => 31
+2013-05-24T17:38:38+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:32
+2013-05-24T17:38:38+02:00	POST-
+
+2013-05-24T17:38:38+02:00	set = contentdm3
+2013-05-24T17:38:38+02:00	token parts = 0 => contentdm3, 1 => 32
+2013-05-24T17:38:39+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:33
+2013-05-24T17:38:39+02:00	POST-
+
+2013-05-24T17:38:39+02:00	set = contentdm3
+2013-05-24T17:38:39+02:00	token parts = 0 => contentdm3, 1 => 33
+2013-05-24T17:38:40+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:34
+2013-05-24T17:38:40+02:00	POST-
+
+2013-05-24T17:38:40+02:00	set = contentdm3
+2013-05-24T17:38:40+02:00	token parts = 0 => contentdm3, 1 => 34
+2013-05-24T17:38:40+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:35
+2013-05-24T17:38:40+02:00	POST-
+
+2013-05-24T17:38:40+02:00	set = contentdm3
+2013-05-24T17:38:40+02:00	token parts = 0 => contentdm3, 1 => 35
+2013-05-24T17:38:42+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:36
+2013-05-24T17:38:42+02:00	POST-
+
+2013-05-24T17:38:42+02:00	set = contentdm3
+2013-05-24T17:38:42+02:00	token parts = 0 => contentdm3, 1 => 36
+2013-05-24T17:38:43+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:37
+2013-05-24T17:38:43+02:00	POST-
+
+2013-05-24T17:38:43+02:00	set = contentdm3
+2013-05-24T17:38:43+02:00	token parts = 0 => contentdm3, 1 => 37
+2013-05-24T17:39:08+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:38
+2013-05-24T17:39:08+02:00	POST-
+
+2013-05-24T17:39:08+02:00	set = contentdm3
+2013-05-24T17:39:08+02:00	token parts = 0 => contentdm3, 1 => 38
+2013-05-24T17:39:09+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:39
+2013-05-24T17:39:09+02:00	POST-
+
+2013-05-24T17:39:10+02:00	set = contentdm3
+2013-05-24T17:39:10+02:00	token parts = 0 => contentdm3, 1 => 39
+2013-05-24T17:39:11+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:40
+2013-05-24T17:39:11+02:00	POST-
+
+2013-05-24T17:39:11+02:00	set = contentdm3
+2013-05-24T17:39:11+02:00	token parts = 0 => contentdm3, 1 => 40
+2013-05-24T17:39:12+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:41
+2013-05-24T17:39:12+02:00	POST-
+
+2013-05-24T17:39:12+02:00	set = contentdm3
+2013-05-24T17:39:12+02:00	token parts = 0 => contentdm3, 1 => 41
+2013-05-24T17:39:13+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:42
+2013-05-24T17:39:13+02:00	POST-
+
+2013-05-24T17:39:13+02:00	set = contentdm3
+2013-05-24T17:39:13+02:00	token parts = 0 => contentdm3, 1 => 42
+2013-05-24T17:39:14+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:43
+2013-05-24T17:39:14+02:00	POST-
+
+2013-05-24T17:39:14+02:00	set = contentdm3
+2013-05-24T17:39:14+02:00	token parts = 0 => contentdm3, 1 => 43
+2013-05-24T17:39:15+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:44
+2013-05-24T17:39:15+02:00	POST-
+
+2013-05-24T17:39:15+02:00	set = contentdm3
+2013-05-24T17:39:15+02:00	token parts = 0 => contentdm3, 1 => 44
+2013-05-24T17:39:16+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:45
+2013-05-24T17:39:16+02:00	POST-
+
+2013-05-24T17:39:16+02:00	set = contentdm3
+2013-05-24T17:39:16+02:00	token parts = 0 => contentdm3, 1 => 45
+2013-05-24T17:39:17+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:46
+2013-05-24T17:39:17+02:00	POST-
+
+2013-05-24T17:39:17+02:00	set = contentdm3
+2013-05-24T17:39:17+02:00	token parts = 0 => contentdm3, 1 => 46
+2013-05-24T17:39:18+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:47
+2013-05-24T17:39:18+02:00	POST-
+
+2013-05-24T17:39:18+02:00	set = contentdm3
+2013-05-24T17:39:18+02:00	token parts = 0 => contentdm3, 1 => 47
+2013-05-24T17:39:19+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:48
+2013-05-24T17:39:19+02:00	POST-
+
+2013-05-24T17:39:19+02:00	set = contentdm3
+2013-05-24T17:39:19+02:00	token parts = 0 => contentdm3, 1 => 48
+2013-05-24T17:39:20+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:49
+2013-05-24T17:39:20+02:00	POST-
+
+2013-05-24T17:39:20+02:00	set = contentdm3
+2013-05-24T17:39:20+02:00	token parts = 0 => contentdm3, 1 => 49
+2013-05-24T17:39:22+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:50
+2013-05-24T17:39:22+02:00	POST-
+
+2013-05-24T17:39:22+02:00	set = contentdm3
+2013-05-24T17:39:22+02:00	token parts = 0 => contentdm3, 1 => 50
+2013-05-24T17:39:23+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:51
+2013-05-24T17:39:23+02:00	POST-
+
+2013-05-24T17:39:23+02:00	set = contentdm3
+2013-05-24T17:39:23+02:00	token parts = 0 => contentdm3, 1 => 51
+2013-05-24T17:39:24+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:52
+2013-05-24T17:39:24+02:00	POST-
+
+2013-05-24T17:39:24+02:00	set = contentdm3
+2013-05-24T17:39:24+02:00	token parts = 0 => contentdm3, 1 => 52
+2013-05-24T17:39:25+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:53
+2013-05-24T17:39:25+02:00	POST-
+
+2013-05-24T17:39:25+02:00	set = contentdm3
+2013-05-24T17:39:25+02:00	token parts = 0 => contentdm3, 1 => 53
+2013-05-24T17:39:27+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:54
+2013-05-24T17:39:27+02:00	POST-
+
+2013-05-24T17:39:27+02:00	set = contentdm3
+2013-05-24T17:39:27+02:00	token parts = 0 => contentdm3, 1 => 54
+2013-05-24T17:39:28+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:55
+2013-05-24T17:39:28+02:00	POST-
+
+2013-05-24T17:39:28+02:00	set = contentdm3
+2013-05-24T17:39:28+02:00	token parts = 0 => contentdm3, 1 => 55
+2013-05-24T17:39:29+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:56
+2013-05-24T17:39:29+02:00	POST-
+
+2013-05-24T17:39:29+02:00	set = contentdm3
+2013-05-24T17:39:29+02:00	token parts = 0 => contentdm3, 1 => 56
+2013-05-24T17:39:31+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:57
+2013-05-24T17:39:31+02:00	POST-
+
+2013-05-24T17:39:31+02:00	set = contentdm3
+2013-05-24T17:39:31+02:00	token parts = 0 => contentdm3, 1 => 57
+2013-05-24T17:39:31+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:58
+2013-05-24T17:39:31+02:00	POST-
+
+2013-05-24T17:39:31+02:00	set = contentdm3
+2013-05-24T17:39:31+02:00	token parts = 0 => contentdm3, 1 => 58
+2013-05-24T17:39:32+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:59
+2013-05-24T17:39:32+02:00	POST-
+
+2013-05-24T17:39:32+02:00	set = contentdm3
+2013-05-24T17:39:32+02:00	token parts = 0 => contentdm3, 1 => 59
+2013-05-24T17:39:32+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:60
+2013-05-24T17:39:32+02:00	POST-
+
+2013-05-24T17:39:32+02:00	set = contentdm3
+2013-05-24T17:39:32+02:00	token parts = 0 => contentdm3, 1 => 60
+2013-05-24T17:39:33+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:61
+2013-05-24T17:39:33+02:00	POST-
+
+2013-05-24T17:39:33+02:00	set = contentdm3
+2013-05-24T17:39:33+02:00	token parts = 0 => contentdm3, 1 => 61
+2013-05-24T17:39:35+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:62
+2013-05-24T17:39:35+02:00	POST-
+
+2013-05-24T17:39:35+02:00	set = contentdm3
+2013-05-24T17:39:35+02:00	token parts = 0 => contentdm3, 1 => 62
+2013-05-24T17:39:36+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:63
+2013-05-24T17:39:36+02:00	POST-
+
+2013-05-24T17:39:36+02:00	set = contentdm3
+2013-05-24T17:39:36+02:00	token parts = 0 => contentdm3, 1 => 63
+2013-05-24T17:39:37+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:64
+2013-05-24T17:39:37+02:00	POST-
+
+2013-05-24T17:39:37+02:00	set = contentdm3
+2013-05-24T17:39:37+02:00	token parts = 0 => contentdm3, 1 => 64
+2013-05-24T17:39:38+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:65
+2013-05-24T17:39:38+02:00	POST-
+
+2013-05-24T17:39:38+02:00	set = contentdm3
+2013-05-24T17:39:38+02:00	token parts = 0 => contentdm3, 1 => 65
+2013-05-24T17:39:38+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:66
+2013-05-24T17:39:38+02:00	POST-
+
+2013-05-24T17:39:38+02:00	set = contentdm3
+2013-05-24T17:39:38+02:00	token parts = 0 => contentdm3, 1 => 66
+2013-05-24T17:39:39+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:67
+2013-05-24T17:39:39+02:00	POST-
+
+2013-05-24T17:39:39+02:00	set = contentdm3
+2013-05-24T17:39:39+02:00	token parts = 0 => contentdm3, 1 => 67
+2013-05-24T17:39:40+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:68
+2013-05-24T17:39:40+02:00	POST-
+
+2013-05-24T17:39:40+02:00	set = contentdm3
+2013-05-24T17:39:40+02:00	token parts = 0 => contentdm3, 1 => 68
+2013-05-24T17:39:41+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:69
+2013-05-24T17:39:41+02:00	POST-
+
+2013-05-24T17:39:41+02:00	set = contentdm3
+2013-05-24T17:39:41+02:00	token parts = 0 => contentdm3, 1 => 69
+2013-05-24T17:39:41+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:70
+2013-05-24T17:39:41+02:00	POST-
+
+2013-05-24T17:39:41+02:00	set = contentdm3
+2013-05-24T17:39:41+02:00	token parts = 0 => contentdm3, 1 => 70
+2013-05-24T17:39:42+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:71
+2013-05-24T17:39:42+02:00	POST-
+
+2013-05-24T17:39:42+02:00	set = contentdm3
+2013-05-24T17:39:42+02:00	token parts = 0 => contentdm3, 1 => 71
+2013-05-24T17:39:43+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:72
+2013-05-24T17:39:43+02:00	POST-
+
+2013-05-24T17:39:43+02:00	set = contentdm3
+2013-05-24T17:39:43+02:00	token parts = 0 => contentdm3, 1 => 72
+2013-05-24T17:39:44+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:73
+2013-05-24T17:39:44+02:00	POST-
+
+2013-05-24T17:39:44+02:00	set = contentdm3
+2013-05-24T17:39:44+02:00	token parts = 0 => contentdm3, 1 => 73
+2013-05-24T17:39:44+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:74
+2013-05-24T17:39:44+02:00	POST-
+
+2013-05-24T17:39:44+02:00	set = contentdm3
+2013-05-24T17:39:44+02:00	token parts = 0 => contentdm3, 1 => 74
+2013-05-24T17:39:45+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:75
+2013-05-24T17:39:45+02:00	POST-
+
+2013-05-24T17:39:45+02:00	set = contentdm3
+2013-05-24T17:39:45+02:00	token parts = 0 => contentdm3, 1 => 75
+2013-05-24T17:39:46+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:76
+2013-05-24T17:39:46+02:00	POST-
+
+2013-05-24T17:39:46+02:00	set = contentdm3
+2013-05-24T17:39:46+02:00	token parts = 0 => contentdm3, 1 => 76
+2013-05-24T17:39:47+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:77
+2013-05-24T17:39:47+02:00	POST-
+
+2013-05-24T17:39:47+02:00	set = contentdm3
+2013-05-24T17:39:47+02:00	token parts = 0 => contentdm3, 1 => 77
+2013-05-24T17:39:47+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:78
+2013-05-24T17:39:47+02:00	POST-
+
+2013-05-24T17:39:47+02:00	set = contentdm3
+2013-05-24T17:39:47+02:00	token parts = 0 => contentdm3, 1 => 78
+2013-05-24T17:39:48+02:00	GET-verb => ListRecords, resumptionToken => contentdm3:79
+2013-05-24T17:39:48+02:00	POST-
+
+2013-05-24T17:39:48+02:00	set = contentdm3
+2013-05-24T17:39:48+02:00	token parts = 0 => contentdm3, 1 => 79
+2013-05-24T20:02:04+02:00	GET-verb => Identify
+2013-05-24T20:02:04+02:00	POST-
+
+2013-05-24T20:02:06+02:00	GET-verb => ListRecords, set => contentdm, metadataPrefix => oai_dc
+2013-05-24T20:02:06+02:00	POST-
+
+2013-05-24T20:02:09+02:00	GET-verb => ListRecords, set => contentdm, metadataPrefix => oai_dc
+2013-05-24T20:02:09+02:00	POST-
+
+2013-05-24T20:04:55+02:00	GET-verb => ListRecords, set => contentdm, metadataPrefix => oai_dc
+2013-05-24T20:04:55+02:00	POST-
+
+2013-05-28T15:11:00+02:00	GET-verb => Identify
+2013-05-28T15:11:00+02:00	POST-
+
+2013-05-28T15:11:02+02:00	GET-verb => ListSets
+2013-05-28T15:11:02+02:00	POST-
+
+2013-05-28T15:11:02+02:00	GET-verb => Identify
+2013-05-28T15:11:02+02:00	POST-
+
+2013-05-28T15:11:14+02:00	GET-verb => Identify
+2013-05-28T15:11:14+02:00	POST-
+
+2013-05-28T15:11:16+02:00	GET-verb => ListRecords, set => contentdm, metadataPrefix => oai_dc
+2013-05-28T15:11:16+02:00	POST-
+
+2013-05-28T15:11:18+02:00	GET-verb => ListRecords, set => contentdm, metadataPrefix => oai_dc
+2013-05-28T15:11:18+02:00	POST-
+

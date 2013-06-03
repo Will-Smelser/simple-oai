@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2013-05-23T13:48:32Z</responseDate><request verb="Identify">http://libmma.contentdm.oclc.org/oai/oai.php</request><Identify>
+      <repositoryName>My Localhost Repository</repositoryName>
+      <baseURL>http://libmma.contentdm.oclc.org/oai/oai.php</baseURL>
+      <protocolVersion>2.0</protocolVersion>
+      <adminEmail>dan.lipcan@metmuseum.org</adminEmail>
+      <earliestDatestamp>2010-05-07</earliestDatestamp>
+      <deletedRecord>transient</deletedRecord>
+      <granularity>YYYY-MM-DD</granularity>
+   </Identify>
+  </OAI-PMH>
